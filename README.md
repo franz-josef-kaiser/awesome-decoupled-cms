@@ -15,6 +15,7 @@
 * [Netlify CMS](https://www.netlifycms.org/) – React, needs static site gen, Content lives in Git repo.
 
 ## Commercial/ Hosted
+* [Appernetic](https://appernetic.io/) – *Pay what you want*, Very basic, but sympathic "product". Worth a look.
 * [Prismic](http://prismic.io)
 * [DatoCMS](https://www.datocms.com)
 * [Contentful](https://contentful.com) – insanly expansive
@@ -31,6 +32,13 @@
 * [Storyblok](https://www.storyblok.com) – Pricing per user: stupidly expensive
 * [Squidex](https://squidex.io) – Ok pricing, Event sourcing: Full history + event handlers on everything, allows for custom/ self-hosted DB. Transparent [roadmap](https://trello.com/b/KakM4F3S/squidex-roadmap) provided to the public. AD/ SSO Integration upcoming.
 * [Scrivito](https://scrivito.com)
+* [Kentico Cloud](https://kenticocloud.com/) – Hefty pricing already for 10 users. Free plan currently incl. 3 users. 15 users are above anything and then there still is the _Enterprise_ & "contact us" plan left.
+* [Agility CMS](https://agilitycms.com/) – So far the craziest pricing seen … for the least users per plan.
+* [~~Elemeno~~](http://elemeno.io/) – Dienst eingestellt.
+* [Scrivito](https://scrivito.com)
+* [DNN Evoq](https://www.dnnsoftware.com/products) – Enterprise Platform
+* [Zesty.io](https://www.zesty.io/) – Hefty pricing, no VCS, proprietary platform that looks fresh, but seems to have an old school, enterprise sales dept. in the background.
 
 ## Mentions
 * [Prose](http://prose.io/#about) – Editor for Content on GitHub: Host your website on GitHub Pages for free, or set up your own GitHub webhook server.
+* [Frontastic](https://www.frontastic.cloud/) – *Frontend As A Service* … _"Aschendorff NEXT acquires a 6-digit Euro stake in Frontastic as part of a seed investment."_ … interesting? Not sure… has a nice logo.
