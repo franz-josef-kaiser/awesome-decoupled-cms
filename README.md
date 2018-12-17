@@ -1,7 +1,7 @@
 # 🕶️Awesome list of decoupled/ headless CMS
 
 ## Open Source
-* [https://parseplatform.org/] – Originally built by facebook, open sourced to the public. [Blog](https://blog.parseplatform.org/). [Documentation](https://docs.parseplatform.org/).
+* [Parse](https://parseplatform.org/) – Originally built by facebook, open sourced to the public. [Blog](https://blog.parseplatform.org/). [Documentation](https://docs.parseplatform.org/). Development slowed down, since moving to the community.
 * [Strapi](https://strapi.io/) – NodeJS, MongoDB/ PostGres – still Alpha, Beta coming in Q2 2019, [public roadmap](https://github.com/strapi/strapi/projects/1) available. Responsive on [Twitter](https://twitter.com/strapijs).
 * [~~Buckets.io~~](http://buckets.io/) – NodeJS, MongoDB (EOL 2015)
 * [Canner](https://www.canner.io) – Taiwan, React, GraphQL (Prisma), Firebase
