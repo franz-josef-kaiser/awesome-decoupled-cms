@@ -30,6 +30,7 @@
 * [Comfortable](https://comfortable.io)
 * [CosmicJS](https://cosmicjs.com)
 * [ButterCMS](https://buttercms.com)
+* [Sanity](https://www.sanity.io) - has a free/starter plan
 * [Storyblok](https://www.storyblok.com) – Pricing per user: stupidly expensive
 * [Squidex](https://squidex.io) – Ok pricing, Event sourcing: Full history + event handlers on everything, allows for custom/ self-hosted DB. Transparent [roadmap](https://trello.com/b/KakM4F3S/squidex-roadmap) provided to the public. AD/ SSO Integration upcoming.
 * [Scrivito](https://scrivito.com)
