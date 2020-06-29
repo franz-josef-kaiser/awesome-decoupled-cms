@@ -6,6 +6,7 @@
 * [~~Buckets.io~~](http://buckets.io/) – NodeJS, MongoDB (EOL 2015)
 * [Canner](https://www.canner.io) – Taiwan, React, GraphQL (Prisma), Firebase
 * [Cockpit](http://getcockpit.com) – PHP, RiotJS, MongoDB
+* [Flextype](https://flextype.org) - The freedom of a headless CMS with the full functionality of a traditional CMS.
 * [Hashbrown CMS](http://hashbrown.rocks) – 
 * [Superdesk](https://www.superdesk.org) – 
 * [Directus](https://directus.app) – PHP, MySQL, VueJS, Apache(?)
