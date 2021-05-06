@@ -19,6 +19,7 @@
 ## Commercial/ Hosted
 * [Appernetic](https://appernetic.io/) – *Pay what you want*, Very basic, but sympathic "product". Worth a look.
 * [Prismic](http://prismic.io)
+* [Payload CMS](https://payloadcms.com) - NodeJS, self-hosted, code-first configuration, REST/GraphQL, auth, localization, TypeScript. Free personal plan and affordable business plans.
 * [DatoCMS](https://www.datocms.com)
 * [Contentful](https://contentful.com) – insanly expansive
 * [GatherContent](https://gathercontent.com) – pretty simple
