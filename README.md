@@ -10,6 +10,7 @@
 * [Hashbrown CMS](http://hashbrown.rocks) – 
 * [Superdesk](https://www.superdesk.org) – 
 * [Directus](https://directus.app) – PHP, MySQL, VueJS, Apache(?)
+* [Manifest](https://manifest.build) - 1-file headless CMS in YAML
 * [Ponzu](https://ponzu-cms.org) – Go
 * [Relax](https://github.com/relax/relax/) – React
 * [~~Gentics Mesh~~](https://getmesh.io)
